@@ -1,3 +1,2 @@
-./frames*
-http.log
-server.log
+/frames*/
+*.log
